@@ -5,6 +5,8 @@ This is a simple Regression project where a model is trained on previous years d
 
 <img src="https://raw.githubusercontent.com/shubhamjain02/IPL-Score-Predictor/master/Readme-Resources/Capture.PNG" width="1000" height="400">
 
+#### To predict scores in real time, click [here](https://score-prediction-of-ipl-match.herokuapp.com/)
+
 ## Usage
 
 1. Download the following files and keep them in a same folder.
